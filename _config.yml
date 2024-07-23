@@ -125,7 +125,7 @@ analytics:
 author:
   name             : "Fang-Duo Tsai"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am not an **amazing** person."
   location         : "Somewhere"
   email            :
   links:
