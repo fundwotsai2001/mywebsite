@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Fang-Duo Tsai's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Fang-Duo Tsai"
-description              : "An amazing website."
-url                      : #"https://github.com/fundwotsai2001"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : "An amazing website by Fang-Duo Tsai."
+url                      : "https://fundwotsai2001.github.io"
+baseurl                  : "/mywebsite"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -124,7 +124,7 @@ analytics:
 # Site Author
 author:
   name             : "Fang-Duo Tsai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/test.JPG
   bio              : "I am not an **amazing** person."
   location         : "Somewhere"
   email            :
