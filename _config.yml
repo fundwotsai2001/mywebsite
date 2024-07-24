@@ -124,7 +124,7 @@ analytics:
 # Site Author
 author:
   name             : "Fang-Duo Tsai"
-  avatar           : /data/home/fundwotsai/fundwotsi2001.github.io/assets/images/test.jpg
+  avatar           : assets/images/test.jpg
   bio              : "I love surfing."
   location         : "Taiwan"
   email            :
