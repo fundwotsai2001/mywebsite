@@ -219,10 +219,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 # navigation:
-#   - name: "Home"
-#     link: "/"
-#   - name: "Audio Prompt Adapter"
-#     link: "/audio-prompt-adapter/"
+  # - name: "Home"
+  #   link: "/"
+  # - name: "Audio Prompt Adapter"
+  #   link: "/audio-prompt-adapter/"
 
 
 # Sass/SCSS
@@ -332,6 +332,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-    layout: single
-      author_profile: true
+    values:
+      layout: page
 
