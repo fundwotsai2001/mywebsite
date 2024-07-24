@@ -332,6 +332,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
-      layout: page
+    layout: single
+      author_profile: true
 
