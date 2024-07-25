@@ -4,4 +4,4 @@ main:
   - title: "publication"
     url: "/publication/"
   - title: "about"
-  url: "/about/"
+    url: "/about/"
