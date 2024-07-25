@@ -223,6 +223,11 @@ kramdown:
 #     link: "/"
 #   - name: "Audio Prompt Adapter s"
 #     link: "/audio-prompt-adapter/"
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
 
 
 # Sass/SCSS
