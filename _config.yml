@@ -337,5 +337,3 @@ defaults:
     values:
       layout: page
 
-recent_posts:
-  enabled: false
