@@ -24,4 +24,7 @@ Course Project for Reinforcement Learning, National Taiwan University
 [View Presentation](https://docs.google.com/presentation/d/1XSOm29KOJRqs1FofFNtJ3JlwRnmdqBmTM3Gp5RpPIKo/edit?usp=sharing)
 </span> \
 <!-- YouTube Video -->
-<iframe width="40%" height="100" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="40%" height="10" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="font-size: 0.8em; font-style: italic;">
+Course Project for Reinforcement Learning, National Taiwan University
+</span>
