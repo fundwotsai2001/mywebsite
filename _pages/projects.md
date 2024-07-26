@@ -14,8 +14,8 @@ Fang-Duo Tsai, Yun-Han Lan, Shu-Wen Chen, Tim Liu
 </span> \
 <span style="font-size: 0.8em; font-style: italic;">
 Course Project for Reinforcement Learning, National Taiwan University
-</span>
----
+</span> \
+----------------------------------------------------------------------------------------------------------
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Automatic ball collector
 </span> \
 <span style="font-size: 0.8em;">
