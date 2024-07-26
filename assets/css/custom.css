@@ -5,4 +5,7 @@
     margin: 0 auto 20px; /* Center the image and add some space below */
     border-radius: 50%; /* Optional: make the image circular */
   }
-  
+.custom-iframe {
+  width: 200px;
+  height: 113px;
+}
