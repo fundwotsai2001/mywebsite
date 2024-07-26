@@ -7,7 +7,7 @@ permalink: /Projects/
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">RLHF on conditional music generation
 </span> \
 <span style="font-size: 0.8em;">
-[PDF Report]({{ site.baseurl }}/assets/pdf/RL_final_report_team6.pdf)
+[Report]({{ site.baseurl }}/assets/pdf/RL_final_report_team6.pdf)
 </span> \
 <span style="font-size: 0.8em;">
 Fang-Duo Tsai, Yun-Han Lan, Shu-Wen Chen, Tim Liu 
@@ -16,10 +16,11 @@ Fang-Duo Tsai, Yun-Han Lan, Shu-Wen Chen, Tim Liu
 Course Project for Reinforcement Learning, National Taiwan University
 </span> \
 ---
+---
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Personalized Timbre Generation
 </span> \
 <span style="font-size: 0.8em;">
-[PDF Report]({{ site.baseurl }}/assets/pdf/music_final.pdf)
+[Report]({{ site.baseurl }}/assets/pdf/music_final.pdf)
 </span> \
 <span style="font-size: 0.8em;">
 Fang-Duo Tsai, Hung-Jui Chen
@@ -27,6 +28,20 @@ Fang-Duo Tsai, Hung-Jui Chen
 <span style="font-size: 0.8em; font-style: italic;">
 Course Project for Deep Learning for Music Analysis and Generation, National Taiwan University
 </span> \
+---
+---
+<span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Talking to Me contest
+</span> \
+<span style="font-size: 0.8em;">
+[Report]({{ site.baseurl }}/assets/pdf/DLCV-Poster-final_ver.pdf)
+</span> \
+<span style="font-size: 0.8em;">
+Fang-Duo Tsai, Shi-heng Wang, Ce-sheng Nan, Shang-rui Guo, Yao-ting Huang
+</span> \
+<span style="font-size: 0.8em; font-style: italic;">
+Course Project for Deep Learning for Computer Vision, National Taiwan University
+</span> \
+---
 ---
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Automatic ball collector
 </span> \
