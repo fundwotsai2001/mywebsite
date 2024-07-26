@@ -16,9 +16,12 @@ Fang-Duo Tsai, Yun-Han Lan, Shu-Wen Chen, Tim Liu
 Course Project for Reinforcement Learning, National Taiwan University
 </span>
 \
+\
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Automatic ball collector
 </span> \
 <!-- Google Slides Presentation -->
+<span style="font-size: 0.8em;">
 [View Presentation](https://docs.google.com/presentation/d/1XSOm29KOJRqs1FofFNtJ3JlwRnmdqBmTM3Gp5RpPIKo/edit?usp=sharing)
+</span> \
 <!-- YouTube Video -->
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" height="100" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
