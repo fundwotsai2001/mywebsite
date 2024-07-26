@@ -5,10 +5,7 @@ permalink: /about/
 ---
 
 I used to practice piano and violin, but now I just play music for fun~
-<div class="video-wrapper" onclick="playVideo(this)">
-    <iframe width="200" height="315" src="https://www.youtube.com/embed/Sjv2bAbLLL8?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+<iframe width="200" height="315" src="https://www.youtube.com/embed/Sjv2bAbLLL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I also played in a band before. I am the vocalist in the first song and keyboardist in the third.
 <div class="video-wrapper" onclick="playVideo(this)">
     <img src="{{ site.baseurl }}/assets/images/band_video.jpg" alt="Custom Thumbnail">
