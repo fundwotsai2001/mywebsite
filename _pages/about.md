@@ -5,14 +5,10 @@ permalink: /about/
 ---
 
 I used to practice piano and violin, but now I just play music for fun~
-<div class="iframe-container">
-    <iframe src="https://www.youtube.com/embed/Sjv2bAbLLL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-\
+<iframe src="https://www.youtube.com/embed/Sjv2bAbLLL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+
 I also played in a band as a singer.
-<div class="iframe-container">
-    <iframe src="https://www.youtube.com/embed/z9Ntn-NwxBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/z9Ntn-NwxBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
 
 ---
 
