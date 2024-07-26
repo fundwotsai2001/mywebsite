@@ -14,8 +14,8 @@
 
 .iframe-container iframe {
   width: 400px; /* 設置為所需顯示大小的2倍 */
-  height: 225px; /* 設置為所需顯示大小的2倍 */
-  transform: scale(1.0); /* 按需縮放 */
+  height: 226px; /* 設置為所需顯示大小的2倍 */
+  transform: scale(0.7); /* 按需縮放 */
   transform-origin: 0 0;
 }
 
