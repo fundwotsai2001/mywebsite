@@ -5,10 +5,9 @@ permalink: /about/
 ---
 
 I used to practice piano and violin, but now I just play it for fun~
-<iframe width="10%" height="5" src="https://www.youtube.com/watch?v=Sjv2bAbLLL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-I also played a band before, I am the vocal in the first song, keyboard in the third.
-<iframe width="10%" height="5" src="https://www.youtube.com/watch?v=Fqqz8DCoEvc&t=308s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sjv2bAbLLL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I also played in a band before. I am the vocalist in the first song and keyboardist in the third.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fqqz8DCoEvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Fang Duo Tsai]({{ site.baseurl }}/assets/images/Me_and_jimmy.jpg){: .profile-photo }
 Jimmy and I.
