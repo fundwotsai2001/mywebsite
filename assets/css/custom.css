@@ -18,8 +18,8 @@
   position: absolute; /* Position the iframe absolutely within the container */
   top: 50%; /* Center vertically */
   left: 50%; /* Center horizontally */
-  width: 400px; /* 設置為所需顯示大小的2倍 */
-  height: 226px; /* 設置為所需顯示大小的2倍 */
-  transform: translate(-50%, -50%) scale(0.7); /* 按需縮放並中心對齊 */
+  width: 400px; /* Set to desired display size's double */
+  height: 226px; /* Set to desired display size's double */
+  transform: translate(-50%, -50%) scale(0.5); /* Adjust scale as needed */
   transform-origin: 0 0;
 }
