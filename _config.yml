@@ -124,7 +124,7 @@ analytics:
 # Site Author
 author:
   name             : "Fang-Duo Tsai"
-  avatar           : 
+  avatar           : /assets/images/test.jpg
   bio              : "I love surfing."
   location         : "Taiwan"
   email            :
