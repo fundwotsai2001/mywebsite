@@ -59,5 +59,5 @@ Course Project for Cornerstone EECS Design and Implementation
 [View Presentation](https://docs.google.com/presentation/d/1XSOm29KOJRqs1FofFNtJ3JlwRnmdqBmTM3Gp5RpPIKo/edit?usp=sharing)
 </span> \
 <!-- YouTube Video -->
-<iframe width="5%" height="5" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="10%" height="5" src="https://www.youtube.com/embed/E3fbKzJhypY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
