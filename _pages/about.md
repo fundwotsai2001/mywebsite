@@ -23,7 +23,10 @@ I also played in a band before. I am the vocalist in the first song and keyboard
 
 ---
 
-![Fang Duo Tsai]({{ site.baseurl }}/assets/images/Me_and_jimmy.jpg){: .profile-photo}
 My dog Jimmy and I.
-![Fang Duo Tsai]({{ site.baseurl }}/assets/images/surfing.jpg){: .profile-photo}
+![Fang Duo Tsai]({{ site.baseurl }}/assets/images/Me_and_jimmy.jpg){: .profile-photo}
+
+---
+
 Still a rookie.
+![Fang Duo Tsai]({{ site.baseurl }}/assets/images/surfing.jpg){: .profile-photo}
