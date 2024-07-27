@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I used to practice piano and violin, but now I just play music for fun~
-<div class="iframe-container" style="width: 80%; max-width: 560px; margin: 0 auto;">
+<div class="iframe-container" style="width: 40%; max-width: 560px; margin: 0 auto;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
         <iframe src="https://www.youtube.com/embed/Sjv2bAbLLL8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -28,5 +28,5 @@ My dog Jimmy and I.
 
 ---
 
-Still a rookie.
+Still a surf rookie.
 ![Fang Duo Tsai]({{ site.baseurl }}/assets/images/surfing.jpg){: .profile-photo}
