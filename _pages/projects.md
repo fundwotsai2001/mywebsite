@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Projects"
-permalink: /Projects/
+title: "Project"
+permalink: /Project/
 ---
 ---
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">RLHF on conditional music generation
