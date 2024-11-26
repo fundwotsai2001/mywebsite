@@ -1,5 +1,8 @@
 ---
-title: "<a href='{{ site.baseurl }}/assets/pdf/Fang_Duo_CV.pdf' target='_blank'>Download My PDF</a>"
-permalink: /vitae/
-layout: single
+layout: cv
+permalink: /cv/
+title: "vitae"
+nav: true
+nav_order: 3
+cv_pdf: Fang_Duo_CV .pdf
 ---
