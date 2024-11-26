@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "Vitae"
+title: "vitae"
 permalink: /mywebsite/assets/pdf/Fang_Duo_CV.pdf
 ---
