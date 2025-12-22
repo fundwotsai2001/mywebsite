@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">ComposerFlow: Step-by-Step Compositional Song Generation</span> \
 <span style="font-size: 0.8em;">
-[pdf](https://drive.google.com/file/d/1uDSGZKeFNis1PNm8b-gEvHXhquvy6pF0/view?usp=sharing) | [Demo website](https://composerflow.github.io/web/)
+[pdf](https://composerflow.github.io/web/paper.pdf) | [Demo website](https://composerflow.github.io/web/)
 </span> \
 <span style="font-size: 0.8em;">
 Fang-Duo Tsai, Yi-An Lai, Fei-Yueh Chen, Li Chai, Hao-Chung Cheng, Yi-Hsuan Yang</span> \
@@ -16,7 +16,7 @@ under review
 
 <span style="font-size: 1.0em; font-weight: bold; line-height: 1.0;">Demonstrating Singing accompaniment capabilities for MuseControlLite</span> \
 <span style="font-size: 0.8em;">
-[pdf](https://drive.google.com/file/d/1kWxdMv1fCRUS78k7WICf7rX0X6F3-p4d/view?usp=sharing) | [Demo website](https://musecontrollite.github.io/web/)
+[OpenReview](https://openreview.net/forum?id=yBxepy8IG3) | [Demo website](https://musecontrollite.github.io/web/)
 </span> \
 <span style="font-size: 0.8em;">
 Fang-Duo Tsai, Yi-Hsuan Yang.</span> \
